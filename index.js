@@ -6,3 +6,4 @@ const totalBatteries = batteryBatches.reduce(function(total, batches){
     return total + batches
     }
   )
+
